@@ -1,6 +1,10 @@
 # Summary
 
-bash scripts for running highstate, and outputting logs for consumption by splunk
+- bash scripts for running highstate, and outputting logs for consumption by splunk
+
+- these are intended to be run from cron on salt-master.
+
+- salt-master should have jq tool installed
 
 ## Examples
 
