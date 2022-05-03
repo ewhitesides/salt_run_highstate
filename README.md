@@ -4,6 +4,8 @@
 
 - these are intended to be run from cron on salt-master.
 
+- it is expected the salt-master has a nodegroups conf file with various nodegroups configured
+
 - salt-master should have jq tool installed
 
 ## Examples
